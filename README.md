@@ -11,7 +11,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 This app is ready to be deployed!
-See the section about [deployment](https://react-typescript-internetshop-app.onrender.com) for more information.
+See the section about [deployment] here (https://react-typescript-internetshop-app.onrender.com) for more information.
 
 This project created with Reactjs + Typescript + tailwind.js
 
